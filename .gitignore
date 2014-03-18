@@ -1,3 +1,10 @@
 reports/db/*.sqlite
 reports/db/*.cache
+reports/PHP_5_4
+reports/PHP_5_5
+reports/PHP_5_6
+reports/PHP_5_7
+reports/PHP_6_0
+reports/PHP_MASTER
+reports/PHP_5_3
 pulls/config.php
